@@ -1,0 +1,13 @@
+# SELECT EVERYTHING FROM A TABLE
+
+SELECT * FROM tablename;
+
+# SELECT SPECIFIC COLUMNS
+
+SELECT colum_1, colum_2...
+FROM tablename;
+
+# SELECT ALL DIFFERENT VALUES IN COLUMNS
+
+SELECT DISTINCT columname (or *)
+FROM tablename;
